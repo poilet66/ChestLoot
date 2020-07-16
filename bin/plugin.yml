@@ -1,0 +1,10 @@
+name: ChestLoot
+main: me.bukkit.chestloot.ChestLoot
+version: 1.0
+commands:
+    save:
+        description: Saves chest location you're looking at to respective tier list.
+        usage: /<command>
+    load:
+        description: Loads all chests for tier given.
+        usage: /<command>
